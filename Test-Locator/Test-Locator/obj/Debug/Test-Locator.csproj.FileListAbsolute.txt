@@ -53,3 +53,5 @@ h:\Projects\Locator-Test\Test-Locator\Test-Locator\bin\Microsoft.Owin.Security.M
 h:\Projects\Locator-Test\Test-Locator\Test-Locator\obj\Debug\Test-Locator.csprojResolveAssemblyReference.cache
 h:\Projects\Locator-Test\Test-Locator\Test-Locator\obj\Debug\Test-Locator.dll
 h:\Projects\Locator-Test\Test-Locator\Test-Locator\obj\Debug\Test-Locator.pdb
+H:\Projects\Locator-Test\Test-Locator\Test-Locator\obj\Debug\Test_Locator.Migrations.InitialModel.resources
+H:\Projects\Locator-Test\Test-Locator\Test-Locator\obj\Debug\Test-Locator.csproj.GenerateResource.Cache
