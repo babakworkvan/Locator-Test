@@ -176,11 +176,17 @@
     <Compile Include="Migrations\202106091605547_RemoveEquipmentAndEquiptypeClasses.Designer.cs">
       <DependentUpon>202106091605547_RemoveEquipmentAndEquiptypeClasses.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202106091845109_AddPrinterandFacilityClasses.cs" />
+    <Compile Include="Migrations\202106091845109_AddPrinterandFacilityClasses.Designer.cs">
+      <DependentUpon>202106091845109_AddPrinterandFacilityClasses.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
     <Compile Include="Models\ApplicationUser.cs" />
+    <Compile Include="Models\Facility.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\Printer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -260,6 +266,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202106091605547_RemoveEquipmentAndEquiptypeClasses.resx">
       <DependentUpon>202106091605547_RemoveEquipmentAndEquiptypeClasses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202106091845109_AddPrinterandFacilityClasses.resx">
+      <DependentUpon>202106091845109_AddPrinterandFacilityClasses.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

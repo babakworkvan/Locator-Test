@@ -57,3 +57,4 @@ H:\Projects\Locator-Test\Test-Locator\Test-Locator\obj\Debug\Test_Locator.Migrat
 H:\Projects\Locator-Test\Test-Locator\Test-Locator\obj\Debug\Test-Locator.csproj.GenerateResource.Cache
 H:\Projects\Locator-Test\Test-Locator\Test-Locator\obj\Debug\Test_Locator.Migrations.AddEquipmentAndEquiptypeClasses.resources
 H:\Projects\Locator-Test\Test-Locator\Test-Locator\obj\Debug\Test_Locator.Migrations.RemoveEquipmentAndEquiptypeClasses.resources
+H:\Projects\Locator-Test\Test-Locator\Test-Locator\obj\Debug\Test_Locator.Migrations.AddPrinterandFacilityClasses.resources
